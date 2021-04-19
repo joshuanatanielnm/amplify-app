@@ -19,7 +19,7 @@
         },
         "cryptoapp": {
           "deploymentBucketName": "amplify-amplifyapp-dev-172355-deployment",
-          "s3Key": "amplify-builds/cryptoapp-634b6948744838443056-build.zip"
+          "s3Key": "amplify-builds/cryptoapp-6866504c322b2b626365-build.zip"
         }
       }
     }
