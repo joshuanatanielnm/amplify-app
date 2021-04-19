@@ -47,12 +47,12 @@
         "FunctionName": {
           "Fn::If": [
             "ShouldNotCreateEnvResources",
-            "amplifyapp8f591b16",
+            "cryptoapp",
             {
               "Fn::Join": [
                 "",
                 [
-                  "amplifyapp8f591b16",
+                  "cryptoapp",
                   "-",
                   {
                     "Ref": "env"
@@ -89,12 +89,12 @@
         "RoleName": {
           "Fn::If": [
             "ShouldNotCreateEnvResources",
-            "amplifyappLambdaRolec52e07e1",
+            "amplifyappLambdaRole1ca50564",
             {
               "Fn::Join": [
                 "",
                 [
-                  "amplifyappLambdaRolec52e07e1",
+                  "amplifyappLambdaRole1ca50564",
                   "-",
                   {
                     "Ref": "env"

@@ -10,6 +10,18 @@
       "StackName": "amplify-amplifyapp-dev-172355",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:468233159035:stack/amplify-amplifyapp-dev-172355/5c418230-a0f9-11eb-9565-0a1c19324e5d",
       "AmplifyAppId": "d36fcqm2yz2lz4"
+    },
+    "categories": {
+      "function": {
+        "amplifyapp8f591b16": {
+          "deploymentBucketName": "amplify-amplifyapp-dev-172355-deployment",
+          "s3Key": "amplify-builds/amplifyapp8f591b16-5553454c5878454a5450-build.zip"
+        },
+        "cryptoapp": {
+          "deploymentBucketName": "amplify-amplifyapp-dev-172355-deployment",
+          "s3Key": "amplify-builds/cryptoapp-634b6948744838443056-build.zip"
+        }
+      }
     }
   }
 }
