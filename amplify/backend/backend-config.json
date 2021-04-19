@@ -1,1 +1,9 @@
-{}
+{
+  "function": {
+    "amplifyapp8f591b16": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}
